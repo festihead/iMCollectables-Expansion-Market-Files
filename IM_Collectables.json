@@ -1,0 +1,226 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Collectables",
+    "Icon": "Trader",
+    "Color": "FF00FF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "iM_BMO",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_AA_Batteries",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Floppy_NukeCodes",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Floppy_TopSecret",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Laser_Pointer_Green",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Laser_Pointer_Blue",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Laser_Pointer_Red",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Laser_Pointer_Yellow",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Laser_Pointer_Pink",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Lemonsweets",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Nokia",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Aztec_Coin",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_GoldBars",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_GoldBar",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_RF_Broadcaster",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_Rugged_Tablet",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_VapePen",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_1Star_Earth",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_2Star_Earth",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_3Star_Earth",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_4Star_Earth",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_5Star_Earth",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_6Star_Earth",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        },
+        {
+            "ClassName": "iM_DragonBall_7Star_Earth",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 7000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1
+        }
+    ]
+}

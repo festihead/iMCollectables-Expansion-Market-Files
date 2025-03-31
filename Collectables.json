@@ -1,0 +1,18 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Collectables",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+      "ExpansionBanknoteEuro"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "Euro",
+    "Categories": [
+      "IM_Collectables:1"
+    ],
+    "Items": {}
+  }
